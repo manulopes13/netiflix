@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Php MyAdmin
+Comment=MySQL management over web
+Exec=google-chrome-stable http://localhost/phpmyadmin/
+Terminal=false
+Type=Application
+Icon=phpmyadmin
+Categories=Development;Database;
